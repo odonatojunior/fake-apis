@@ -1,12 +1,109 @@
 {
-  "posts": [
+  "learning": [
     {
       "id": 1,
-      "nome": "Site oficial do governo",
-      "link": "https://covid.saude.gov.br/"
+      "name": "Academind",
+      "link": "https://www.youtube.com/academind",
+      "about": "",
+      "portuguese": false
+    },
+    {
+      "id": 2,
+      "name": "Code with Ania Kubow",
+      "link": "https://www.youtube.com/aniakubow",
+      "about": "",
+      "portuguese": false
+    },
+    {
+      "id": 3,
+      "name": "balta.io",
+      "link": "https://www.youtube.com/baltaio",
+      "about": "",
+      "portuguese": true
+    },
+    {
+      "id": 4,
+      "name": "CFB Cursos",
+      "link": "https://www.youtube.com/cfbcursos",
+      "about": "",
+      "portuguese": true
+    },
+    {
+      "id": 5,
+      "name": "codeSTACKr",
+      "link": "https://www.youtube.com/codestackr",
+      "about": "",
+      "portuguese": false
+    },
+    {
+      "id": 6,
+      "name": "Coding Addict",
+      "link": "https://www.youtube.com/codingaddict",
+      "about": "",
+      "portuguese": false
+    },
+    {
+      "id": 7,
+      "name": "CollabCode",
+      "link": "https://www.youtube.com/collabcode",
+      "about": "",
+      "portuguese": true
+    },
+    {
+      "id": 8,
+      "name": "Código Fonte TV",
+      "link": "https://www.youtube.com/codigofontetv",
+      "about": "",
+      "portuguese": true
+    },
+    {
+      "id": 9,
+      "name": "DesignCourse",
+      "link": "https://www.youtube.com/designcourse",
+      "about": "",
+      "portuguese": false
+    },
+    {
+      "id": 10,
+      "name": "Dev Ed",
+      "link": "https://www.youtube.com/deved",
+      "about": "",
+      "portuguese": false
+    },
+    {
+      "id": 11,
+      "name": "Dev Soutinho",
+      "link": "https://www.youtube.com/devsoutinho",
+      "about": "",
+      "portuguese": true
+    },
+    {
+      "id": 12,
+      "name": "Filipe Deschamps",
+      "link": "https://www.youtube.com/filipedeschamps",
+      "about": "",
+      "portuguese": true
+    },
+    {
+      "id": 13,
+      "name": "Fireship",
+      "link": "https://www.youtube.com/AngularFirebase",
+      "about": "",
+      "portuguese": false
+    },
+    {
+      "id": 14,
+      "name": "Florin Pop",
+      "link": "https://www.youtube.com/florinpop",
+      "about": "",
+      "portuguese": false
+    },
+    {
+      "id": 15,
+      "name": "Freecodecamp",
+      "link": "https://www.youtube.com/freecodecamp",
+      "about": "",
+      "portuguese": false
     }
-  ],
-  "profile":{
-    "name": "odonatojunior"
-  }
+  ]
 }
