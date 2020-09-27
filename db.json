@@ -104,6 +104,55 @@
       "link": "https://www.youtube.com/freecodecamp",
       "about": "",
       "portuguese": false
+    },
+    {
+      "id": 16,
+      "name": "James Q. Quick",
+      "link": "https://www.youtube.com/jamesqquick",
+      "about": "",
+      "portuguese": false
+    },
+    {
+      "id": 17,
+      "name": "Karol Attekita",
+      "link": "https://www.youtube.com/AttekitaDev",
+      "about": "",
+      "portuguese": true
+    },
+    {
+      "id": 18,
+      "name": "Kevin Powell",
+      "link": "https://www.youtube.com/kepowob/",
+      "about": "",
+      "portuguese": false
+    },
+    {
+      "id": 19,
+      "name": "Layout Land",
+      "link": "https://www.youtube.com/LayoutLand/",
+      "about": "",
+      "portuguese": false
+    },
+    {
+      "id": 20,
+      "name": "Origamid",
+      "link": "https://www.youtube.com/Origamid",
+      "about": "Monstro sagrado do front-end e minha maior inspiração",
+      "portuguese": true
+    },
+    {
+      "id": 21,
+      "name": "The Net Ninja",
+      "link": "https://www.youtube.com/TheNetNinja",
+      "about": "",
+      "portuguese": false
+    },
+    {
+      "id": 22,
+      "name": "Traversy Media",
+      "link": "https://www.youtube.com/traversymedia",
+      "about": "",
+      "portuguese": false
     }
   ]
 }
